@@ -1,0 +1,7 @@
+{ 
+    "C_Cpp.default.includePath": ["/home/izu/sgdk/inc",
+    "/home/izu/sgdk/res",
+    "res",
+    "inc"
+]
+}
